@@ -66,10 +66,6 @@ This implementation is designed for efficiency and scalability, making it suitab
 
 This project relies on the `rand` crate for random number generation.
 
-## License
-
-This project is licensed under the GPL-3.0 License.
-
 ## Credits
 
 This project made with guidance from MathleteDev. Special thanks to the Rust community and contributors to the `rand` crate.
